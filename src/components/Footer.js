@@ -15,16 +15,16 @@ const Footer = () => {
         <div className="flex items-center lg:py-2">
           Built with <span className="text-primary text-2xl px-1 dark:text-primaryDark">&#9825;	</span> by&nbsp;
           <Link
-            href="https://devdreaming.com"
+            href="https://www.linkedin.com/in/arjun-rajendran369/"
             target="_blank"
             className="underline underline-offset-2"
           >
-            CodeBucks
+           Arjun
           </Link>
         </div>
 
         <Link
-          href="https://devdreaming.com/about"
+          href=""
           target="_blank"
           className="underline underline-offset-2"
         >

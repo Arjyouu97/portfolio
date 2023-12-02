@@ -1,6 +1,6 @@
 -- Please read this carefully --
 
-Please note that the source code for this project is being sold for personal and educational purposes only. You are not permitted to resell this code. For commercial purposes please contact me via email at codebucks27@gmail.com. 
+Please note that the source code for this project is being sold for personal and educational purposes only. You are not permitted to resell this code. For commercial purposes please contact me via email at imarjunrajendran@gmail.com. 
 
 Feel free to modify and customize this template as needed to fit the specific details and requirements of your project.
 
@@ -71,7 +71,7 @@ Thank You So Much for purchasing this Project and Supporting My Channel!
 If you have any question or You want me to make project then You can 
 reach out to me via:
 
-- E-mail : codebucks27@gmail.com
+- E-mail : imarjunrajendran@gmail.com
 - Twitter: https://twitter.com/code_bucks
 - Instagram: https://www.instagram.com/code.bucks/
 

@@ -60,9 +60,8 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>CodeBucks</strong>, a web developer and
-                UI/UX designer with a passion for creating beautiful,
-                functional, and user-centered digital experiences. With 4 years
+                Hi, I&apos;m <strong>Arjun</strong>, a Spftware developer with a passion for creating beautiful,
+                functional, and user-centered digital experiences. With 5 years
                 of experience in the field. I am always looking for new and
                 innovative ways to bring my clients&apos; visions to life.
               </p>
@@ -91,7 +90,7 @@ export default function About() {
               <Image
                 className="h-auto w-full rounded-2xl"
                 src={profile}
-                alt="Codebucks"
+                alt="Arjun"
                 sizes="(max-width: 768px) 100vw,
               (max-width: 1200px) 50vw,
               33vw"

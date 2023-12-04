@@ -87,7 +87,7 @@ const Experience = () => {
             <Details
               position="Software Developer"
               company="Finekube"
-              companyLink="https://amazon.com"
+              companyLink="https://finekube.com/"
               time="2021-03 to 2022-09"
               address="Kochi Kerala, India"
               work="Designed and implemented RESTful APIs to 

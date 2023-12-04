@@ -62,48 +62,56 @@ const Experience = () => {
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
             <Details
-              position="Software Engineer"
-              company="Google"
-              companyLink="https://google.com"
-              time="2022-Present"
-              address="Mountain View, CA"
-              work="Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
+              position="Senior Software Developer"
+              company="Brandworks Global FZCO"
+              companyLink="https://habeebiglobal.com"
+              time="2023-04 to Present"
+              address="DAFZA, DUBAI"
+              work="Led the process of launching new startups, 
+              driving growth and success. Provided leadership and guidance in IT 
+              projects, fostering team success"
             />
 
             <Details
-              position="Intern"
-              company="Facebook"
-              companyLink="https://facebook.com"
-              time="Summer 2021"
-              address="Menlo Park, CA."
-              work="Worked on a team responsible for developing a new mobile app
-              feature that allowed users to create and share short-form video
-              content, including designing and implementing a new user interface
-              and developing the backend infrastructure to support the feature."
+              position="Software Developer & Team Lead"
+              company="Retrostacks FZCO"
+              companyLink="http://retrostacks.com/"
+              time="2022-09 to 2023-04"
+              address="DAFZA, DUBAI"
+              work="Established and nurtured client 
+              relationships, providing regular project 
+              status updates and deliverable reports.Engineered customized APIs to seamlessly 
+              integrate with IoT devices."
             />
 
             <Details
               position="Software Developer"
-              company="Amazon"
+              company="Finekube"
               companyLink="https://amazon.com"
-              time="2020-2021"
-              address="Seattle, WA."
-              work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
+              time="2021-03 to 2022-09"
+              address="Kochi Kerala, India"
+              work="Designed and implemented RESTful APIs to 
+              support the functionality of chat bots and 
+              mobile applications.Identified critical vulnerabilities that posed 
+              a significant threat to the security of 
+              payment and sensitive information on 
+              different platform."
             />
 
             <Details
-              position="Software Developer Intern"
-              company="Microsoft"
-              companyLink="https://microsoft.com"
-              time="Summer 2019"
-              address="Redmond, WA."
-              work="Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component."
+              position="Back-End Developer"
+              company="Calcus Technologies"
+              companyLink="https://calcus.in/"
+              time="2019-06 to 2021-03"
+              address="Thrissur Kerala, India"
+              work="Created and implemented back-end 
+              components including stored procedures, 
+              REST APIs, and Cron Jobs for a customized 
+              Laboratory Information Management 
+              System (LIMS) software."
             />
 
-            <Details
+            {/* <Details
               position="Teaching Assistant"
               company="MIT"
               companyLink="https://mit.edu"
@@ -112,7 +120,7 @@ const Experience = () => {
               work="Assisted in teaching a course on computer programming, held office
               hours to help students with assignments, and graded exams and
               assignments."
-            />
+            /> */}
           </ul>
         </div>
         </div>

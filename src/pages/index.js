@@ -18,7 +18,7 @@ export default function Home() {
         <title>Awesome Portfolio Built with Nextjs</title>
         <meta
           name="description"
-          content="Explore CodeBucks's Next.js developer portfolio and 
+          content="Explore Arjun's developer portfolio and 
         discover the latest webapp projects and software engineering articles. 
         Showcase your skills as a full-stack developer and software engineer."
         />
@@ -33,7 +33,7 @@ export default function Home() {
             <div className="w-1/2 lg:hidden md:inline-block md:w-full">
               <Image
                 src={profilePic}
-                alt="CodeBucks"
+                alt="Arjun"
                 className="h-auto w-full"
                 sizes="100vw"
                 priority
@@ -45,7 +45,7 @@ export default function Home() {
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-              As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+              As an experienced Software Engineer, I have spent more than four years honing my expertise in development and taking charge of the entire product cycle from conceptualization to final delivery. My proven track record also includes effectively managing team members and successfully steering them through more than 6 product launches during my tenure at rapidly expanding technology startups. Explore my latest projects and articles, showcasing my expertise.
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
@@ -81,7 +81,7 @@ export default function Home() {
           <Image
             className="relative h-auto w-full"
             src={lightBulb}
-            alt="Codebucks"
+            alt="Arjun"
           />
         </div>
       </article>

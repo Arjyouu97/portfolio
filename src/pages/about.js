@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 import Head from "next/head";
 import Image from "next/image";
-import profile from "../../public/images/profile/developer-pic-2.jpg";
+import profile from "../../public/images/profile/Arjun2.jpg";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import { useEffect, useRef } from "react";
 import Skills from "@/components/Skills";
@@ -38,8 +38,8 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Minimal Portfolio Built with Nextjs | About Page</title>
-        <meta name="description" content="Learn more about CodeBucks, a Next.js developer with a passion for 
+        <title>Arjun Portfolio | About Page</title>
+        <meta name="description" content="Web developer with a passion for 
         creating innovative solutions. Discover tips for building a developer portfolio and insights on 
         full-stack development, front-end development, and back-end development." />
       </Head>
@@ -101,7 +101,7 @@ export default function About() {
             xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={40} />+
+                  <AnimatedNumberFramerMotion value={15} />+
                 </span>
                 <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
@@ -111,7 +111,7 @@ export default function About() {
 
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={50} />+
+                  <AnimatedNumberFramerMotion value={35} />+
                 </span>
                 <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">

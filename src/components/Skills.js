@@ -47,14 +47,17 @@ const Skills = () => {
 
           <Skill name="CSS" x="-5vw" y="-10vw" />
           <Skill name="JavaScript" x="20vw" y="6vw" />
-          <Skill name="ReactJS" x="0vw" y="12vw" />
-          <Skill name="NextJS" x="-20vw" y="-15vw" />
-          <Skill name="GatsbyJS" x="15vw" y="-12vw" />
-          <Skill name="Github" x="-35vw" y="-5vw" />
-          <Skill name="Web Design" x="32vw" y="-5vw" />
-          <Skill name="Figma" x="0vw" y="-20vw" />
+          <Skill name="Flutter" x="-30vw" y="-1vw" />
+          <Skill name="Node js" x="0vw" y="12vw" />
+          <Skill name="Laravel" x="-20vw" y="-15vw" />
+          <Skill name="Symfony" x="15vw" y="-12vw" />
+          <Skill name="PHP" x="15vw" y="-17vw" />
+          <Skill name="React js" x="-35vw" y="-5vw" />
+          <Skill name="Photoshop" x="32vw" y="-5vw" />
+          <Skill name="Mongo db" x="32vw" y="5vw" />
+          <Skill name="MySQL" x="0vw" y="-15vw" />
           <Skill name="Firebase" x="-25vw" y="18vw" />
-          <Skill name="Tawilwind CSS" x="28vw" y="18vw" />
+          <Skill name="Rest API" x="28vw" y="18vw" />
     </div></>
   );
 };

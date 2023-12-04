@@ -8,6 +8,7 @@ import {
   LinkedInIcon,
   MoonIcon,
   PinterestIcon,
+  WhatsAppIcon,
   SunIcon,
   TwitterIcon,
 } from "./Icons";
@@ -129,6 +130,17 @@ const Navbar = () => {
         >
           <LinkedInIcon />
         </motion.a>
+
+        <motion.a
+          target={"_blank"}
+          className="w-6 mx-3"
+          href="https://wa.me/+971552094128?text=Hi"
+          whileHover={{ y: -2 }}
+          whileTap={{ scale: 0.9 }}
+          aria-label="Contact me via WhatsApp"
+        >
+          <WhatsAppIcon />
+        </motion.a>
         {/* <motion.a
           target={"_blank"}
           className="w-6 mx-3 bg-light rounded-full"
@@ -215,6 +227,20 @@ const Navbar = () => {
         >
           <LinkedInIcon />
         </motion.a>
+
+
+        <motion.a
+          target={"_blank"}
+          className="w-6 m-1 mx-3 sm:mx-1"
+          href="https://wa.me/+971552094128?text=Hi"
+          whileHover={{ y: -2 }}
+          whileTap={{ scale: 0.9 }}
+          aria-label="Contact me via WhatsApp"
+        >
+          <WhatsAppIcon />
+        </motion.a>
+
+
         {/* <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full sm:mx-1"

@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
 
         <Link
-          href=""
+          href="https://wa.me/+971552094128?text=Hi"
           target="_blank"
           className="underline underline-offset-2"
         >
